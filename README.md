@@ -1,2 +1,2 @@
 # gGuess
-Small gui guessing made with raylib.
+Small gui guessing game made with raylib.
